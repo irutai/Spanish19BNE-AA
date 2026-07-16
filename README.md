@@ -14,6 +14,7 @@ Each text file follows this naming convention:
 
 #### Example
 
+```
 SinDuplicados_Test20:
 SinDuplicados_Train80:
 |__ ...
@@ -23,6 +24,7 @@ SinDuplicados_Train80:
       |__ bimo0001594627_1910_Zorrilla_José_1817-1893.txt
       |__ ...
 |__ ...
+```
 
 ## License
 This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
