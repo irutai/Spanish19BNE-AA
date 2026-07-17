@@ -26,6 +26,13 @@ SinDuplicados_Train80:
 |__ ...
 ```
 
+#### + OCRvsCurated_16_test_texts
+
+In this folder, as an additional study, to investigate if quality of the textual source affects AA performance, a controlled comparison between OCR-derived texts and manually curated digital editions is developed, with same training process but a separate evaluation using two alternative versions of the same test documents.
+
+To do a comparative evaluation, a subset of 16 literary works from the original OCR-based test collection is chosen (in OCRvsCurated_16_test_texts/test_selected_OCR, with same structure as before). The works are compared with the corresponding manually curated digital version (in OCRvsCurated_16_test_texts/test_selected_curated) obtained from Project Gutenberg (original txts are in folder OCRvsCurated_16_test_texts/test_selected_curated_originally_from_gutenberg, but they has been adapted --and also de OCR-based texts-- to trim a percentage of the works at the beginning and at the end).
+
+
 ## License
 This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
