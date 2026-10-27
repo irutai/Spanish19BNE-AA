@@ -8,6 +8,9 @@ Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode.en
 
 This license applies only to the developers' eligible original contributions, such as protected elements of dataset selection, organization, documentation, and curation. It does not assert copyright over the underlying public-domain literary works, nor does it replace the applicable reuse terms for OCR files provided by the Biblioteca Nacional de España (BNE).
 
-BNE bibliographic metadata retain their own source terms (CC0 where applicable).
+BNE bibliographic metadata retain their own source terms (CC0 1.0 Universal, where applicable).
 
-For source-level provenance, rights information, and attribution details, consult metadata/README_RIGHTS.md and metadata/Spanish19BNE-AA_provenance_rights.csv.
+For source-level provenance, rights information, and attribution details, consult:
+
+- `README.md`
+- `Spanish19BNE-AA_provenance_rights.csv`
